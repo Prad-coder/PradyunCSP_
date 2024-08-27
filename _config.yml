@@ -1,9 +1,9 @@
-title: Nighthawk Pages 
-description: "Class of 2025"
-owner_name: John Mortensen
-github_username: nighthawkcoders
-github_repo: "student_2025" 
-baseurl: "/student_2025"
+title: Pradyun's CSP Blog 
+description: "Class of 2027"
+owner_name: Pradyun Gowda
+github_username: Prad-coder
+github_repo: "PradyunCSP_" 
+baseurl: "/PradyunCSP_"
 future: true
 remote_theme: jekyll/minima
 minima:
