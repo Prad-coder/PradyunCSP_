@@ -5,4 +5,4 @@ description: Home Page
 hide: true
 ---
 
-My journey starts here. Tanav helped me. Saathvik helped me.
+I am a 10th grade boy at DNHS. Some of my hobbies are playing competitive badminton, doing math aand playing video games. My favorite food is pizza, and my favorite color is blue.
