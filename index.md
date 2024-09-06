@@ -6,8 +6,8 @@ hide: true
 ---
 
 <div>
-    <p>Hi, my name is Pradyun Gowda. I am a 10th grade boy at DNHS. Some of my hobbies are playing competitive badminton, doing math and playing video games. My favorite food is pizza, and my favorite color is blue.</p>
-    <button>Click Me</button>
+    <p><h2>About Me</h2>Hi, my name is Pradyun Gowda. I am a 10th grade boy at DNHS. Some of my hobbies are playing competitive badminton, doing math and playing video games. My favorite food is pizza, and my favorite color is blue.</p>
+    <button onclick="window.open('https://www.wikipedia.org/', '_blank');">Search What You Want to Search</button>
 </div>
 <div>
     <a href="http://127.0.0.1:4100/PradyunCSP_/2024/08/21/miniproject_IPYNB_2_.html">Gaming Blog!</a><br>
