@@ -10,7 +10,7 @@ hide: true
     <button onclick="window.open('https://www.wikipedia.org/', '_blank');">Search What You Want to Search</button>
 </div>
 <div>
-    <a href="http://127.0.0.1:4100/PradyunCSP_/2024/08/21/miniproject_IPYNB_2_.html">Gaming Blog!</a><br>
+    <a href="https://prad-coder.github.io/PradyunCSP_/2024/08/21/miniproject_IPYNB_2_.html">Gaming Blog!</a><br>
     <a href="https://poway.instructure.com/">Canvas</a>
     <p>The first link is a link to my Gaming Blog Mini Project, and the second link is a link to the Canvas main page for PUSD. These are some important links that I use for this class.</p>
 </div>
