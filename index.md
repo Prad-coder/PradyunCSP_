@@ -14,3 +14,4 @@ hide: true
     <a href="https://poway.instructure.com/">Canvas</a>
     <p>The first link is a link to my Gaming Blog Mini Project, and the second link is a link to the Canvas main page for PUSD. These are some important links that I use for this class.</p>
 </div>
+<img src="{{site.baseurl}}/images/Screenshot 2024-09-06 090844.png">
