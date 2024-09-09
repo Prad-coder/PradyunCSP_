@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Student Home 
+title: Pradyun's CSP Blog 
 description: Home Page
 hide: true
 ---
