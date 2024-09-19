@@ -3,6 +3,7 @@ layout: base
 title: Pradyun's CSP Blog 
 description: Home Page
 hide: true
+comments: true
 ---
 
 <div>
