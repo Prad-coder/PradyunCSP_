@@ -34,3 +34,10 @@ Here are some images from the Remember Forever Quiz.
 <img src="{{site.baseurl}}/images/RememberForever3.png">
 <img src="{{site.baseurl}}/images/RememberForever4.png">
 <img src="{{site.baseurl}}/images/RememberForever5.png">
+<script src="https://utteranc.es/client.js"
+        repo="Prad-coder/PradyunCSP_"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
