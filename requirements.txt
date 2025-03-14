@@ -1,5 +1,6 @@
 nbconvert
 nbformat
+numpy
 pyyaml
 notebook
 requests
